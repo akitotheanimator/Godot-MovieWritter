@@ -1,3 +1,6 @@
+# All rights to the holders of GODOT, whose the source code was translated from.
+
+
 This is a direct translation of godot's MovieWritter. This version works on gameplay, can add frames to a AVI, and encode the video on runtime.
 Essentially, a AVI encoder.
 
