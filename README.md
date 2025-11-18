@@ -22,8 +22,8 @@ This writes a singular frame on the AVI file.
 * frame_image_quality: The image quality of the JPEG (1 = max quality, 0 = min quality)
 
 
-  ## func WriteEnd():
-  This finishes the AVI stream.
+## func WriteEnd():
+This finishes the AVI stream.
 
 
 The main workflow for writting a frame is:
